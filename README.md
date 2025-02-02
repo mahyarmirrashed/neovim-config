@@ -1,1 +1,1 @@
-# Neovim Configuration
+# :computer: Neovim Configuration
